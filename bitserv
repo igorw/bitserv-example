@@ -1,0 +1,3 @@
+# bitserv
+
+bitserv is a [sinatra] based wiki powered by [grit]. this wiki is also using bitserv, cool eh?
